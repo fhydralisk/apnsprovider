@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E73FD5B93711DE3A5D8E28243BA5E4DD39377F66",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E73FD5B93711DE3A5D8E28243BA5E4DD39377F66" : 9223372036854775807,
+    "E847EB2DFA714EC28AAC673FBE03B01D415AB1EA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "01B37532-7E97-4E93-916A-BA4E7330780D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E73FD5B93711DE3A5D8E28243BA5E4DD39377F66" : "NPApnsProvider\/",
+    "E847EB2DFA714EC28AAC673FBE03B01D415AB1EA" : "..\/NopqzipLib"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Easy APNs Provider",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Easy APNs Provider.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:fhydralisk\/apnsprovider.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E73FD5B93711DE3A5D8E28243BA5E4DD39377F66"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:fhydralisk\/nopqziplib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E847EB2DFA714EC28AAC673FBE03B01D415AB1EA"
+    }
+  ]
+}

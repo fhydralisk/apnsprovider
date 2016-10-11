@@ -1,0 +1,46 @@
+"test %d" = "测试 %d";
+
+
+
+"Certificate File Not Choosed" = "未选择证书";
+"Connected to APN server successfully" = "身份已验证，您可以发送推送消息了。";
+"Connected to server, validating identity..." = "已连接至服务器，正在验证身份...";
+"Disconnected by user"= "用户要求断开连接。已断开";
+"Disconnected by server due to invalid certificate, invalid data, network error... etc"="服务端主动断开连接，这可能是由于证书错误，发送的数据错误，网络错误等原因引起的。";
+"Failed sending APN to %@, description:%@, frameID=0x%08X"="尝试发送推送到%@失败，错误描述：%@，APN识别：0x%08X";
+"Failed sending APN to %@, description:%ld, frameID=0x%08X"="尝试发送推送到%@失败，错误描述：%ld，APN识别：0x%08X";
+"APNS Error:%@ frameID=0x%08X" = "APNs错误反馈，错误：%@, APN识别：0x%08X";
+"APNS Error:%ld frameID=0x%08X" = "APNs错误反馈，错误：%ld, APN识别：0x%08X";
+"Choose a certificate file (*.cer) first" = "请先选择一个证书（cer文件）";
+"Certificate do not exist, choose again." = "证书不存在，请重新选择";
+"Select server first." = "请先选择一个服务器";
+"Already connected, please disconnect first" = "已经连接至服务器了。";
+"Connecting to %@" = "正在连接到%@";
+"Not connected to server" = "未连接至服务器。";
+"Notification sent to: %@ with id 0x%08X" = "推送已尝试发送至%@，APN识别：0x%08X";
+"Token not binded" = "未添加Token";
+
+
+"No errors encountered" = "无错误";
+"Processing error" = "处理错误";
+"Missing device token" = "缺失设备Token";
+"Missing topic" = "缺失";
+"Missing payload" = "缺失payload";
+"Invalid token size" = "无效的Token长度";
+"Invalid topic size" = "无效的主题长度";
+"Invalid payload size" = "无效的payload长度";
+"Invalid token" = "无效的设备Token";
+"Shutdown" = "断开连接";
+"None (unknown)" = "未知错误";
+
+
+"Passed" = "通过";
+"Failed" = "不通过";
+"%luc left" = "%luc 剩余";
+"Your device should connect to this application on port %d." = "您的设备可以连接到本机的%d端口";
+"No valid file found. The length of file must be %d" = "未发现有效的二进制文件，请确保文件长度必须为%d";
+"Each token must be given a name"="请为所有待添加的Token命名";
+
+"Avaliable Server IPs:"="可用的主机地址：";
+"Please send a valid token" = "请发送一个有效的Token";
+"Token sent via network is invalid"="从网络发送的Token无效";

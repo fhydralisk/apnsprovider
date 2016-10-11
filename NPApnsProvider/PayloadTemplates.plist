@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Payloads</key>
+	<array>
+		<dict>
+			<key>Template Name</key>
+			<string>Content only</string>
+			<key>Payload Content</key>
+			<string>{
+    &quot;aps&quot; : { &quot;alert&quot; : &quot;Your message Here&quot; },
+    &quot;acme2&quot; : [ &quot;bang&quot;,  &quot;whiz&quot; ]
+}</string>
+		</dict>
+		<dict>
+			<key>Template Name</key>
+			<string>Content &amp; badge</string>
+			<key>Payload Content</key>
+			<string>{
+    &quot;aps&quot; : {
+        &quot;alert&quot; : &quot;Your message here.&quot;,
+        &quot;badge&quot; : 9
+    },
+    &quot;acme1&quot; : &quot;bar&quot;,
+    &quot;acme2&quot; : 42
+}</string>
+		</dict>
+		<dict>
+			<key>Template Name</key>
+			<string>Content, badge and sound</string>
+			<key>Payload Content</key>
+			<string>{
+    &quot;aps&quot; : {
+        &quot;alert&quot; : &quot;Your message here.&quot;,
+        &quot;badge&quot; : 9,
+        &quot;sound&quot; : &quot;default&quot;
+    },
+    &quot;acme1&quot; : &quot;bar&quot;,
+    &quot;acme2&quot; : 42
+}</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,272 @@
+
+/* Class = "NSMenuItem"; title = "NPApnsProvider"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "NPApnsProvider";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Quit NPApnsProvider"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit NPApnsProvider";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "About NPApnsProvider"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About NPApnsProvider";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Redo";
+
+/* Class = "NSTextFieldCell"; title = "What is content-available key?
+If you have enabled \"remote notification\"
+in background mode, enable the content-
+available key could cause your background
+running App to be aware of this notification
+via application:didReceiveRemoteNotification:
+fetchCompletionHandler: method of App Dele-
+gate"; ObjectID = "6xe-2u-40Y"; */
+"6xe-2u-40Y.title" = "What is content-available key?
+If you have enabled \"remote notification\"
+in background mode, enable the content-
+available key could cause your background
+running App to be aware of this notification
+via application:didReceiveRemoteNotification:
+fetchCompletionHandler: method of App Dele-
+gate";
+
+/* Class = "NSTextFieldCell"; title = "3.Receive from your device via network. "; ObjectID = "7WD-Fv-sJV"; */
+"7WD-Fv-sJV.title" = "3.Receive from your device via network. ";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "80J-J4-VFD"; */
+"80J-J4-VFD.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Badge"; ObjectID = "86R-WZ-Ayx"; */
+"86R-WZ-Ayx.title" = "Badge";
+
+/* Class = "NSButtonCell"; title = "Content-Available"; ObjectID = "8gK-ib-umr"; */
+"8gK-ib-umr.title" = "Content-Available";
+
+/* Class = "NSTextFieldCell"; title = "Feedback. Status"; ObjectID = "8o4-7F-H24"; */
+"8o4-7F-H24.title" = "Feedback. Status";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9ee-jH-X92"; */
+"9ee-jH-X92.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ATN-5P-Mjp"; */
+"ATN-5P-Mjp.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Content"; ObjectID = "AYQ-o8-lpk"; */
+"AYQ-o8-lpk.title" = "Content";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "BDH-x6-l0S"; */
+"BDH-x6-l0S.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "Convert to Convenient"; ObjectID = "BNc-vP-R96"; */
+"BNc-vP-R96.title" = "Convert to Convenient";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSTextFieldCell"; title = "Certificate File Not Choosed"; ObjectID = "DUJ-xj-ozh"; */
+"DUJ-xj-ozh.title" = "Certificate File Not Choosed";
+
+/* Class = "NSTextFieldCell"; title = "Added tokens"; ObjectID = "FMx-aq-VL5"; */
+"FMx-aq-VL5.title" = "Added tokens";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "FPS-fi-1S7"; */
+"FPS-fi-1S7.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "FfQ-Vs-Tr3"; */
+"FfQ-Vs-Tr3.title" = "Remove";
+
+/* Class = "NSTextFieldCell"; placeholderString = "ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789"; ObjectID = "G6I-ob-VHL"; */
+"G6I-ob-VHL.placeholderString" = "ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789";
+
+/* Class = "NSTextFieldCell"; title = "1.Input Manually - Net order (unrecommended)"; ObjectID = "IMI-W7-O85"; */
+"IMI-W7-O85.title" = "1.Input Manually - Big Endian (unrecommended)";
+
+/* Class = "NSWindow"; title = "Easy APNs Provider"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Easy APNs Provider";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Iah-4y-FBb"; */
+"Iah-4y-FBb.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "K5L-XP-ATD"; */
+"K5L-XP-ATD.title" = "Remove";
+
+/* Class = "NSButtonCell"; title = "Abort"; ObjectID = "KVw-S6-HtB"; */
+"KVw-S6-HtB.title" = "Abort";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSButtonCell"; title = "Sound"; ObjectID = "LmF-Yj-pNL"; */
+"LmF-Yj-pNL.title" = "Sound";
+
+/* Class = "NSTextFieldCell"; title = "You can add a token in different ways as below:"; ObjectID = "MID-nf-WJu"; */
+"MID-nf-WJu.title" = "You can add a token in different ways as below:";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Hide NPApnsProvider"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide NPApnsProvider";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "Find Previous";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Psl-iG-BHx"; */
+"Psl-iG-BHx.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "Jump to Selection";
+
+/* Class = "NSTextFieldCell"; title = "4. Payload"; ObjectID = "SE4-Xd-zIJ"; */
+"SE4-Xd-zIJ.title" = "4. Payload";
+
+/* Class = "NSButtonCell"; title = "5. Send APN"; ObjectID = "THe-JH-vw3"; */
+"THe-JH-vw3.title" = "5. Send APN";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "U7Y-3r-fTA"; */
+"U7Y-3r-fTA.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "gateway.push.apple.com"; ObjectID = "VCH-7F-flk"; */
+"VCH-7F-flk.title" = "gateway.push.apple.com";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "VFF-TW-5W4"; */
+"VFF-TW-5W4.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
+"WeT-3V-zwk.title" = "Paste and Match Style";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+"Xz5-n4-O0W.title" = "Find…";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Y2p-j6-MNE"; */
+"Y2p-j6-MNE.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
+"YEy-JH-Tfz.title" = "Find and Replace…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show Available Addresses"; ObjectID = "ZSd-mE-hYz"; */
+"ZSd-mE-hYz.ibShadowedToolTip" = "Show Available Addresses";
+
+/* Class = "NSButtonCell"; title = "Select binary files"; ObjectID = "ZWj-aY-lP8"; */
+"ZWj-aY-lP8.title" = "Select binary files";
+
+/* Class = "NSTabViewItem"; label = "Convenient"; ObjectID = "aFr-Kn-ry5"; */
+"aFr-Kn-ry5.label" = "Convenient";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "gateway.sandbox.push.apple.com"; ObjectID = "bY7-zP-NDu"; */
+"bY7-zP-NDu.title" = "gateway.sandbox.push.apple.com";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+"buJ-ug-pKt.title" = "Use Selection for Find";
+
+/* Class = "NSTextFieldCell"; title = "Send your token [NSData bytes] with length 32."; ObjectID = "cZN-ed-BfL"; */
+"cZN-ed-BfL.title" = "Send your token [NSData bytes] with length 32.";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "Undo";
+
+/* Class = "NSButtonCell"; title = "6. Disconnect"; ObjectID = "dpb-sM-xva"; */
+"dpb-sM-xva.title" = "6. Disconnect";
+
+/* Class = "NSTextFieldCell"; title = "64c left"; ObjectID = "e1O-LE-Vqy"; */
+"e1O-LE-Vqy.title" = "64c left";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fUi-Yc-knp"; */
+"fUi-Yc-knp.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Paste";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSButtonCell"; title = "2.Choose Certificate File"; ObjectID = "iaC-tb-dTw"; */
+"iaC-tb-dTw.title" = "2.Choose Certificate File";
+
+/* Class = "NSButtonCell"; title = "Confirm"; ObjectID = "jlo-gf-bJ4"; */
+"jlo-gf-bJ4.title" = "Confirm";
+
+/* Class = "NSTextFieldCell"; title = "Your device should connect to this application on port 2466."; ObjectID = "kDY-cm-cri"; */
+"kDY-cm-cri.title" = "Your device should connect to this application on port 2466.";
+
+/* Class = "NSButtonCell"; title = "Add tokens..."; ObjectID = "lGD-cr-559"; */
+"lGD-cr-559.title" = "Add tokens...";
+
+/* Class = "NSButtonCell"; title = "3. Connect to:"; ObjectID = "lcZ-Ke-vWM"; */
+"lcZ-Ke-vWM.title" = "3. Connect to:";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "Delete";
+
+/* Class = "NSTextFieldCell"; title = "2.Add from files:"; ObjectID = "pxu-1f-gR1"; */
+"pxu-1f-gR1.title" = "2.Add from files:";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+"q09-fT-Sye.title" = "Find Next";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "q6p-vC-pZL"; */
+"q6p-vC-pZL.title" = "N/A";
+
+/* Class = "NSButtonCell"; title = "Convert to Raw"; ObjectID = "tch-aS-yvf"; */
+"tch-aS-yvf.title" = "Convert to Raw";
+
+/* Class = "NSMenu"; title = "NPApnsProvider"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "NPApnsProvider";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Cut";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "uap-VZ-yP4"; */
+"uap-VZ-yP4.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "Raw"; ObjectID = "v6f-c0-UEA"; */
+"v6f-c0-UEA.label" = "Raw";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Copy";
+
+/* Class = "NSTextFieldCell"; title = "1. Add Tokens"; ObjectID = "xS0-Ee-uC8"; */
+"xS0-Ee-uC8.title" = "1. Add Tokens";
+
+/* Class = "NSButtonCell"; title = "Title"; ObjectID = "yhc-CR-aSH"; */
+"yhc-CR-aSH.title" = "Title";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "z5x-l7-RJ2"; */
+"z5x-l7-RJ2.title" = "Add";
